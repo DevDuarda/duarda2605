@@ -1,6 +1,13 @@
-### Olá, eu sou a Eduarda Martins 👋
+<!-- Banner de fundo -->
+<img src="https://raw.githubusercontent.com/duarda2605/duarda2605/main/assets/bg.png" width="100%" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/duardamarrtins)
+<h1 align="center">Olá, eu sou a Eduarda Martins 👋</h1>
+
+<p align="center">
+  <a href="https://www.instagram.com/duardamarrtins">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -12,13 +19,17 @@ Curto a ideia de seguir na carreira **full stack** e estou sempre buscando evolu
 
 ---
 
-## 📚 O que estou estudando agora
+<h2 align="center">📚 O que estou estudando agora</h2>
 
-- Python (Curso do Gustavo Guanabara)
-- HTML & CSS
-- Git e GitHub
-- Lógica de Programação
-- Design (Photoshop e Behance)
+<small>
+
+- Python (Curso do Gustavo Guanabara)  
+- HTML & CSS  
+- Git e GitHub  
+- Lógica de Programação  
+- Design (Photoshop e Behance)  
+
+</small>
 
 ---
 
@@ -37,11 +48,13 @@ Curto a ideia de seguir na carreira **full stack** e estou sempre buscando evolu
 
 ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=duarda2605&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duarda2605&layout=compact&theme=onedark)](https://github.com/duarda2605/github-readme-stats)
+
 ---
 
 ## ✨ Áreas de interesse
 
-- Desenvolvimento **Full Stack**
-- Design e interfaces criativas
-- Desenvolvimento Web
+- Desenvolvimento **Full Stack**  
+- Design e interfaces criativas  
+- Desenvolvimento Web  
 - Projetos que misturam código e arte 💡
