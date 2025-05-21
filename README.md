@@ -1,5 +1,5 @@
 <!-- Banner de fundo -->
-<img src="https://raw.githubusercontent.com/duarda2605/duarda2605/main/assets/bg.png" width="100%" />
+
 
 <h1 align="center">Olá, eu sou a Eduarda Martins 👋</h1>
 
