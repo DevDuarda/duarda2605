@@ -48,7 +48,7 @@
 
   <section>
     <h2>📈 Estatísticas do GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=duarda2605&show_icons=true&theme=onedark" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DevDuarda&show_icons=true&theme=onedark" alt="GitHub stats" />
     <a href="https://github.com/DevDuarda/github-readme-stats" target="_blank" rel="noopener noreferrer">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDuarda&layout=compact&theme=onedark" alt="Top languages" />
     </a>
