@@ -53,8 +53,8 @@ Tenho como objetivo **entrar no mercado rapidamente**, contribuindo com soluçõ
 
 ## 📬 Contato
 
-- **LinkedIn:** [SeuPerfilLinkedIn](https://linkedin.com/in/seu-perfil)
-- **E-mail:** seu.email@email.com  
+- **LinkedIn:** [DevDuarda](https://linkedin.com/in/seu-perfil)
+- **E-mail:** devduardamartins@email.com  
 - **Disponível para estágio e projetos de automação / back-end**
 
 ---
