@@ -1,70 +1,62 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8" />
+# 👩‍💻 Eduarda M. | Python Developer & Automação Back-End
 
-</head>
-<body>
+🎓 Estudante de Tecnologia em Desenvolvimento Back-End (Cruzeiro do Sul)  
+🐍 Apaixonada por resolver problemas reais com **Python**  
+📌 Foco em **automação de tarefas**, **sistemas web**, **scripts úteis** e **organização de dados**
 
-  <h1>Olá, eu sou a Eduarda Martins 👋</h1>
+---
 
-  <hr />
+## 🚀 Sobre Mim
 
-  <section>
-    <h2>🚀 Sobre mim</h2>
-    <p>Estudante de <strong>Desenvolvimento Back-End</strong> e apaixonada por <strong>programação</strong> e <strong>design</strong>.<br />
-    Atualmente aprendendo <strong>Python</strong> com o curso do Gustavo Guanabara (Mundo 3) e estudando <strong>HTML</strong>, <strong>CSS</strong> e <strong>Java</strong> por conta própria.<br />
-    Curto a ideia de seguir na carreira <strong>full stack</strong> e estou sempre buscando evoluir!</p>
-  </section>
+Atualmente curso Back-End e estou focando minha carreira em **automação com Python**, APIs e scripts inteligentes para facilitar processos manuais.
 
-  <hr />
+Tenho como objetivo **entrar no mercado rapidamente**, contribuindo com soluções práticas e eficientes. Já desenvolvi automações como:
 
-  <section>
-    <h2>📚 O que estou estudando agora</h2>
-    <small>
-      Python (Curso do Gustavo Guanabara) <br />
-      HTML & CSS <br />
-      Java <br />
-      Git e GitHub <br />
-      Lógica de Programação <br />
-      Design (Photoshop e Behance)
-    </small>
-  </section>
+- Scripts para organização automática de arquivos
+- Leitura e geração de relatórios Excel
+- Consulta e envio de dados via APIs REST
+- Simulação de pagamentos (Projeto Pagoulex 💸)
 
-  <hr />
+---
 
-  <section>
-    <h2>⚙️ Tecnologias que uso nos meus estudos</h2>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Pycharm" />
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
-    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </section>
+## 🛠️ Tecnologias que domino
 
-  <hr />
+- **Linguagens:** Python, HTML, CSS (básico)
+- **Automação:** `pyautogui`, `schedule`, `os`, `shutil`, `openpyxl`
+- **Web Scraping:** `requests`, `beautifulsoup4`, `selenium`
+- **APIs:** `flask`, `requests`
+- **Banco de Dados:** SQLite, PostgreSQL (básico)
+- **Ferramentas:** Git, GitHub, VS Code, Postman
 
-  <section>
-    <h2>📈 Estatísticas do GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=DevDuarda&show_icons=true&theme=onedark" alt="GitHub stats" />
-    <a href="https://github.com/DevDuarda/github-readme-stats" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDuarda&layout=compact&theme=onedark" alt="Top languages" />
-    </a>
-  </section>
+---
 
-  <hr />
+## 📁 Projetos em Destaque
 
-  <section>
-    <h2>✨ Áreas de interesse</h2>
-    <ul>
-      <li>Desenvolvimento <strong>Full Stack</strong></li>
-      <li>Design e interfaces criativas</li>
-      <li>Desenvolvimento Web</li>
-      <li>Projetos que misturam código e arte 💡</li>
-    </ul>
-  </section>
+| Projeto       | Descrição                                                      | Tecnologias         |
+|---------------|----------------------------------------------------------------|----------------------|
+| **Pagoulex**  | Sistema simples para simular pagamento de contas               | Python, JSON, CLI    |
+| **File Organizer** | Organiza arquivos automaticamente por tipo e data         | Python, OS           |
+| **API de Contas**  | API REST para controlar cadastro e status de contas       | Flask, SQLite        |
 
-</body>
-</html>
+➡️ *Veja todos os projetos nos repositórios abaixo*
+
+---
+
+## 📈 Em aprendizado contínuo:
+
+- Django e frameworks web
+- APIs mais avançadas
+- SQL para análise de dados
+- Testes automatizados com `pytest`
+
+---
+
+## 📬 Contato
+
+- **LinkedIn:** [SeuPerfilLinkedIn](https://linkedin.com/in/seu-perfil)
+- **E-mail:** seu.email@email.com  
+- **Disponível para estágio e projetos de automação / back-end**
+
+---
+
+⭐ *Se gostou de algum projeto, sinta-se à vontade para deixar uma estrela ou me chamar para conversar!*
